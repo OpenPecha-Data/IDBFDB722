@@ -4,4 +4,9 @@ source_metadata:
   id: bdr:W2PD17612
   title: 藏汉文化考述
   author: ''
-  volumes: {}
+  volumes:
+    8b1d880191de434488d45eab45a2b3e3:
+      image_group_id: I4PD4267
+      title: ''
+      volume_number: 1
+      total_pages: 236
